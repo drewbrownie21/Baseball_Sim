@@ -1,0 +1,115 @@
+{
+    "team_name": "Giants",
+    "team_overall": 54,
+    "players": {
+        "pitchers": {
+            "starter": {
+                "name": "Mark Miller",
+                "overall": 56,
+                "stamina": 77,
+                "control": 71,
+                "velocity": 23,
+                "movement": 53
+            },
+            "reliever": {
+                "name": "Austin Nolan",
+                "overall": 74,
+                "stamina": 22,
+                "control": 76,
+                "velocity": 69,
+                "movement": 67
+            },
+            "closer": {
+                "name": "Donald Garcia",
+                "overall": 55,
+                "stamina": 40,
+                "control": 52,
+                "velocity": 50,
+                "movement": 40
+            }
+        },
+        "hitters": {
+            "catcher": {
+                "name": "David Miller",
+                "overall": 57,
+                "contact": 46,
+                "power": 43,
+                "speed": 64,
+                "eye": 70,
+                "defense": 63
+            },
+            "first": {
+                "name": "Lawrence Hicks",
+                "overall": 64,
+                "contact": 68,
+                "power": 77,
+                "speed": 62,
+                "eye": 66,
+                "defense": 48
+            },
+            "second": {
+                "name": "Daniel Smith",
+                "overall": 54,
+                "contact": 48,
+                "power": 72,
+                "speed": 33,
+                "eye": 60,
+                "defense": 60
+            },
+            "third": {
+                "name": "Anthony Wolf",
+                "overall": 57,
+                "contact": 62,
+                "power": 71,
+                "speed": 57,
+                "eye": 37,
+                "defense": 59
+            },
+            "shortstop": {
+                "name": "Chris Scott",
+                "overall": 56,
+                "contact": 69,
+                "power": 51,
+                "speed": 74,
+                "eye": 31,
+                "defense": 58
+            },
+            "left field": {
+                "name": "Daniel Stark",
+                "overall": 36,
+                "contact": 78,
+                "power": 20,
+                "speed": 30,
+                "eye": 26,
+                "defense": 26
+            },
+            "center field": {
+                "name": "Robert Holloway",
+                "overall": 57,
+                "contact": 52,
+                "power": 58,
+                "speed": 73,
+                "eye": 49,
+                "defense": 55
+            },
+            "right field": {
+                "name": "Robert Patrick",
+                "overall": 44,
+                "contact": 27,
+                "power": 35,
+                "speed": 75,
+                "eye": 31,
+                "defense": 54
+            },
+            "designated_hitter": {
+                "name": "Bradley Woodard",
+                "overall": 47,
+                "contact": 50,
+                "power": 25,
+                "speed": 57,
+                "eye": 39,
+                "defense": 68
+            }
+        }
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "team_name": "Dragons",
+    "team_overall": 52,
+    "players": {
+        "pitchers": {
+            "starter": {
+                "name": "Adam Christensen",
+                "overall": 56,
+                "stamina": 49,
+                "control": 79,
+                "velocity": 57,
+                "movement": 40
+            },
+            "reliever": {
+                "name": "Dennis Stewart",
+                "overall": 58,
+                "stamina": 22,
+                "control": 66,
+                "velocity": 67,
+                "movement": 30
+            },
+            "closer": {
+                "name": "Glen Wheeler",
+                "overall": 43,
+                "stamina": 24,
+                "control": 39,
+                "velocity": 46,
+                "movement": 34
+            }
+        },
+        "hitters": {
+            "catcher": {
+                "name": "John Arnold",
+                "overall": 51,
+                "contact": 35,
+                "power": 41,
+                "speed": 79,
+                "eye": 78,
+                "defense": 24
+            },
+            "first": {
+                "name": "Taylor Jefferson",
+                "overall": 68,
+                "contact": 65,
+                "power": 80,
+                "speed": 55,
+                "eye": 73,
+                "defense": 71
+            },
+            "second": {
+                "name": "Kevin Burnett",
+                "overall": 46,
+                "contact": 22,
+                "power": 40,
+                "speed": 46,
+                "eye": 50,
+                "defense": 73
+            },
+            "third": {
+                "name": "Thomas Strong",
+                "overall": 62,
+                "contact": 48,
+                "power": 77,
+                "speed": 43,
+                "eye": 69,
+                "defense": 74
+            },
+            "shortstop": {
+                "name": "Jonathan Nguyen",
+                "overall": 55,
+                "contact": 48,
+                "power": 68,
+                "speed": 31,
+                "eye": 53,
+                "defense": 79
+            },
+            "left field": {
+                "name": "Jesse Barber",
+                "overall": 43,
+                "contact": 23,
+                "power": 53,
+                "speed": 31,
+                "eye": 72,
+                "defense": 37
+            },
+            "center field": {
+                "name": "Ethan Massey",
+                "overall": 43,
+                "contact": 75,
+                "power": 20,
+                "speed": 49,
+                "eye": 45,
+                "defense": 26
+            },
+            "right field": {
+                "name": "Joe Rodgers",
+                "overall": 43,
+                "contact": 31,
+                "power": 32,
+                "speed": 67,
+                "eye": 56,
+                "defense": 29
+            },
+            "designated_hitter": {
+                "name": "William Clark",
+                "overall": 58,
+                "contact": 54,
+                "power": 49,
+                "speed": 77,
+                "eye": 74,
+                "defense": 40
+            }
+        }
+    }
+}

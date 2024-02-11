@@ -1,0 +1,116 @@
+{
+    "team_name" : "",
+    "team_overall" : 0,
+    "players" : 
+    {
+        "pitchers": {
+            "starter": {
+                "name": "",
+                "overall": 0,
+                "stamina": 0,
+                "control": 0,
+                "velocity": 0,
+                "movement": 0
+            },
+            "reliever": {
+                "name": "",
+                "overall": 0,
+                "stamina": 0,
+                "control": 0,
+                "velocity": 0,
+                "movement": 0
+            },
+            "closer": {
+                "name": "",
+                "overall": 0,
+                "stamina": 0,
+                "control": 0,
+                "velocity": 0,
+                "movement": 0
+            }
+        },
+        "hitters" : {
+            "catcher": {
+                "name": "",
+                "overall": 0,
+                "contact": 0,
+                "power": 0,
+                "speed": 0,
+                "eye" : 0,
+                "defense": 0
+            },
+            "first": {
+                "name": "",
+                "overall": 0,
+                "contact": 0,
+                "power": 0,
+                "speed": 0,
+                "eye" : 0,
+                "defense": 0
+            },
+            "second": {
+                "name": "",
+                "overall": 0,
+                "contact": 0,
+                "power": 0,
+                "speed": 0,
+                "eye" : 0,
+                "defense": 0
+            },
+            "third": {
+                "name": "",
+                "overall": 0,
+                "contact": 0,
+                "power": 0,
+                "speed": 0,
+                "eye" : 0,
+                "defense": 0
+            },
+            "shortstop": {
+                "name": "",
+                "overall": 0,
+                "contact": 0,
+                "power": 0,
+                "speed": 0,
+                "eye" : 0,
+                "defense": 0
+            },
+            "left field": {
+                "name": "",
+                "overall": 0,
+                "contact": 0,
+                "power": 0,
+                "speed": 0,
+                "eye" : 0,
+                "defense": 0
+            },
+            "center field": {
+                "name": "",
+                "overall": 0,
+                "contact": 0,
+                "power": 0,
+                "speed": 0,
+                "eye" : 0,
+                "defense": 0
+            },
+            "right field": {
+                "name": "",
+                "overall": 0,
+                "contact": 0,
+                "power": 0,
+                "speed": 0,
+                "eye" : 0,
+                "defense": 0
+            },
+            "designated_hitter": {
+                "name": "",
+                "overall": 0,
+                "contact": 0,
+                "power": 0,
+                "speed": 0,
+                "eye" : 0,
+                "defense": 0
+            }
+        }
+    }
+}
